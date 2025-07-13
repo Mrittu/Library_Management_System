@@ -41,11 +41,13 @@ Library_Management_System/
 
 ⚙️ How to Run Locally
 🔧 Backend (Express + MongoDB)
+
 cd backend
 npm install
 node server.js
 
 🌐 Frontend (React)
+
 cd frontend
 npm install
 npm start
